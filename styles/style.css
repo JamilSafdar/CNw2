@@ -1,0 +1,25 @@
+.heading{ 
+    flex: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: blue;
+}
+
+.intro{
+    flex-direction: column;
+    font-family: cursive;
+    text-decoration-color: cadetblue;
+}
+img {
+    flex: 20%;
+}
+
+.p1 {
+    font-family: fantasy;
+    font-size: small;
+    text-emphasis-color: blue;
+}
+.p2 {
+    font-family: monospace;
+    font-size: small;
+    -moz-text-decoration-color: rgb(36, 36, 117);
+}
