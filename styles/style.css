@@ -1,3 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+.navBar {
+    background-color: green;
+    height: 15%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    
+}
+
+.navList{
+    list-style: none;
+    display: flex;
+}
+.navList li {
+    padding: 10px;
+}
 .heading{ 
     flex: 5%;
     font-family: Georgia, 'Times New Roman', Times, serif;
